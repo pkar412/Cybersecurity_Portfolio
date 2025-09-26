@@ -1,11 +1,11 @@
 # 🛡️ Cybersecurity Portfolio – TryHackMe Hands-on Project  
 
-![TryHackMe Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/pkar.png" alt="Your Image Badge" />)
+  <img src="https://tryhackme-badges.s3.amazonaws.com/pkar.png" alt="Your Image Badge" />
 
 ---
 
-## 📄 Introduction  
-This **Cybersecurity Portfolio** demonstrates my **practical learning journey** using **TryHackMe labs** as part of the *ITECH1502 Cybersecurity Fundamentals* course at **Federation University**.  
+## Introduction  
+This **Cybersecurity Portfolio** demonstrates my **practical learning journey** using **TryHackMe labs** as part of the **ITECH1502 Cybersecurity Fundamentals** course at **Federation University**.  
 
 The aim was to bridge **theoretical knowledge** with **real-world applications** in:  
 - **Incident Response**  
@@ -17,7 +17,7 @@ The project aligns with **NIST Cybersecurity Framework (CSF) 2.0** and includes 
 
 ---
 
-## 🎯 Learning Objectives  
+## Learning Objectives  
 - Apply **NIST CSF 2.0** concepts to simulated cybersecurity scenarios.  
 - Gain **hands-on experience** in vulnerability scanning, incident response, and forensics.  
 - Develop **technical skills** using tools like **Nmap, Whois, Nslookup, Traceroute**, and **Windows Forensic analyzers**.  
@@ -27,7 +27,7 @@ The project aligns with **NIST Cybersecurity Framework (CSF) 2.0** and includes 
 
 ---
 
-## 🧪 Exercises Completed  
+## Exercises Completed  
 
 | No. | Exercise Name            | Key Learning Outcomes                                                         | Tools/Techniques Used                          |
 |-----|---------------------------|-------------------------------------------------------------------------------|------------------------------------------------|
@@ -39,7 +39,7 @@ The project aligns with **NIST Cybersecurity Framework (CSF) 2.0** and includes 
 
 ---
 
-## 🛠️ Tools & Technologies Used  
+## Tools & Technologies Used  
 
 | Tool / Technology     | Purpose / Use Case                                                      |
 |-----------------------|-------------------------------------------------------------------------|
@@ -52,17 +52,7 @@ The project aligns with **NIST Cybersecurity Framework (CSF) 2.0** and includes 
 
 ---
 
-## 📜 How to Access  
-
-- **Project Report:** Navigate to the `Report/` folder and open `Final_Project_Report.pdf`.  
-- **Presentation:** Go to the `Presentation/` folder for `Cybersecurity_Presentation.pptx`.  
-- **Evidence:** Open the `Evidence/` folder for screenshots and logs organized by exercise.  
-
-**Direct Portfolio Link:** [Cybersecurity Portfolio on GitHub](https://github.com/YourUsername/Cybersecurity-Portfolio)  
-
----
-
-## 📈 Learning Outcomes  
+## Learning Outcomes  
 
 - Practical understanding of **NIST CSF 2.0** functions: Identify, Protect, Detect, Respond, Recover.  
 - Skills in **Incident Response**, **Forensic Investigation**, **Vulnerability Scanning**, and **Reconnaissance** techniques.  
@@ -71,7 +61,7 @@ The project aligns with **NIST Cybersecurity Framework (CSF) 2.0** and includes 
 
 ---
 
-## 🚀 Future Improvements  
+## Future Improvements  
 
 - Explore **advanced TryHackMe labs** for deeper incident response simulations.  
 - Integrate **SIEM tools** like Splunk or ELK for centralized log analysis.  
@@ -82,9 +72,12 @@ The project aligns with **NIST Cybersecurity Framework (CSF) 2.0** and includes 
 
 ## 👤 Author  
 
-**Name:** Pranta Chandra kar 
-**Stydent Id:** 30480109 
-**Institution:** Federation University  
+**Name:** Pranta Chandra kar
+
+**Student Id:** 30480109 
+
+**Institution:** Federation University 
+
 **Year:** 2025  
 
 ---
