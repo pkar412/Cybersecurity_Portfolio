@@ -37,6 +37,8 @@ The project aligns with **NIST Cybersecurity Framework (CSF) 2.0** and includes 
 | 4   | Passive Reconnaissance      | OSINT techniques, DNS and domain intelligence gathering                        | Whois, Nslookup, Dig tools                      |
 | 5   | Active Reconnaissance       | Direct engagement methods, traceroute, ping, telnet-based reconnaissance      | Ping, Traceroute, Telnet, Browser-based tools   |
 
+![](https://raw.githubusercontent.com/pkar412/Cybersecurity_Portfolio/refs/heads/main/Screenshots/Screenshot%202025-09-22%20174654.png)
+
 ---
 
 ## Tools & Technologies Used  
