@@ -24,8 +24,6 @@ The project aligns with **NIST Cybersecurity Framework (CSF) 2.0** and includes 
 - Apply **NIST CSF 2.0** concepts to simulated cybersecurity scenarios.  
 - Gain **hands-on experience** in vulnerability scanning, incident response, and forensics.  
 - Develop **technical skills** using tools like **Nmap, Whois, Nslookup, Traceroute**, and **Windows Forensic analyzers**.  
-- Build a **career-ready portfolio** hosted on GitHub for future employers.  
-- Reflect on **professional growth** and identify areas for **continuous improvement**.  
 
 
 ---
