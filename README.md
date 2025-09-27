@@ -13,7 +13,7 @@ The aim was to bridge **theoretical knowledge** with **real-world applications**
 - **Reconnaissance Techniques**  
 - **Vulnerability Scanning**  
 
-The project aligns with **NIST Cybersecurity Framework (CSF) 2.0** and includes **evidence, project reports, and reflections** for assessment and career development purposes.  
+The project aligns with **NIST Cybersecurity Framework (CSF) 2.0** and includes **evidence, project reports, and reflections** for assessment.  
 
   
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpoY3l2bmVtNnY2a3pxMzFyMjRsOHowbG5pbzNwN3VzbTAyZzB2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif)
